@@ -21,7 +21,7 @@ const Layout = () => {
                 <Outlet />
             </article>
             <footer>
-                Saját név</footer>
+                Bathelt Róbert</footer>
         </>
     )
 };
